@@ -10,8 +10,6 @@ CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-samba4=y
 CONFIG_PACKAGE_luci-app-openlist2=y
 CONFIG_PACKAGE_luci-app-tailscale=y
-#皎月连
-CONFIG_PACKAGE_luci-app-natpierce=y
 CONFIG_PACKAGE_luci-theme-argon=y
 #CONFIG_PACKAGE_ucode-mod-math=y  #避免进不了后台
 CONFIG_PACKAGE_luci-app-argon-config=y
